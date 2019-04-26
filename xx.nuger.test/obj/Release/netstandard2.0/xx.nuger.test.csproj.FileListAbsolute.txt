@@ -1,0 +1,8 @@
+D:\demo\netcore\xx.nuger.test\xx.nuger.test\bin\Release\netstandard2.0\xx.nuger.test.deps.json
+D:\demo\netcore\xx.nuger.test\xx.nuger.test\bin\Release\netstandard2.0\xx.nuger.test.dll
+D:\demo\netcore\xx.nuger.test\xx.nuger.test\bin\Release\netstandard2.0\xx.nuger.test.pdb
+D:\demo\netcore\xx.nuger.test\xx.nuger.test\obj\Release\netstandard2.0\xx.nuger.test.csproj.CoreCompileInputs.cache
+D:\demo\netcore\xx.nuger.test\xx.nuger.test\obj\Release\netstandard2.0\xx.nuger.test.AssemblyInfoInputs.cache
+D:\demo\netcore\xx.nuger.test\xx.nuger.test\obj\Release\netstandard2.0\xx.nuger.test.AssemblyInfo.cs
+D:\demo\netcore\xx.nuger.test\xx.nuger.test\obj\Release\netstandard2.0\xx.nuger.test.dll
+D:\demo\netcore\xx.nuger.test\xx.nuger.test\obj\Release\netstandard2.0\xx.nuger.test.pdb
